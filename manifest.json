@@ -1,6 +1,6 @@
 {
   "vendor": "techeems",
-  "name": "my-test-name",
+  "name": "techeems-storetheme",
   "version": "0.1.1",
   "builders": {
     "styles": "2.x",
