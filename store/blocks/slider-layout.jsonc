@@ -1,0 +1,84 @@
+{
+    "slider-layout#home": {
+    "children": [
+        "image#brand1",
+        "image#brand2",
+        "image#brand3",
+        "image#brand4",
+        "image#brand5",
+        "image#brand6"
+    ],
+    "props": {
+      "autoplay": {
+        "timeout": 5000,
+        "stopOnHover": false
+      }
+    }
+  },
+  
+  "image#brand1": {
+    "props": {
+      "src": "https://cdn.iconscout.com/icon/free/png-256/free-intel-282118.png",
+      "isFullModeStyle": true,
+      "headline": "Black Friday",
+      "callToActionText": "Subscribe",
+      "textPosition": "center",
+      "height": "150px"
+    }
+  },
+  "image#brand2": {
+    "props": {
+      "src": "https://static.vecteezy.com/system/resources/previews/019/766/225/original/amd-logo-amd-icon-transparent-free-png.png",
+      "isFullModeStyle": true,
+      "headline": "Black Friday",
+      "callToActionText": "Subscribe",
+      "textPosition": "center",
+      "height": "150px"
+    }
+  },
+  
+  "image#brand3": {
+    "props": {
+      "src": "https://cwsmgmt.corsair.com/press/CORSAIRLogo2020_stack_K.png",
+      "isFullModeStyle": true,
+      "headline": "Black Friday",
+      "callToActionText": "Subscribe",
+      "textPosition": "center",
+      "height": "150px"
+    }
+  },
+  
+  "image#brand4": {
+    "props": {
+      "src": "https://1000marcas.net/wp-content/uploads/2020/03/razer-symbol.jpg",
+      "isFullModeStyle": true,
+      "headline": "Black Friday",
+      "callToActionText": "Subscribe",
+      "textPosition": "center",
+      "height": "150px"
+
+    }
+  },
+  
+  "image#brand5": {
+    "props": {
+      "src": "https://1000marcas.net/wp-content/uploads/2020/02/Logitech-Logo-3.png",
+      "isFullModeStyle": true,
+      "headline": "Black Friday",
+      "callToActionText": "Subscribe",
+      "textPosition": "center",
+      "height": "150px"
+    }
+  },
+  
+  "image#brand6": {
+    "props": {
+      "src": "https://logos-world.net/wp-content/uploads/2020/11/Kingston-Logo.png",
+      "isFullModeStyle": true,
+      "headline": "Black Friday",
+      "callToActionText": "Subscribe",
+      "textPosition": "center",
+      "height": "150px"
+    }
+  }
+}
