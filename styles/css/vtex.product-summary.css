@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+.element--sliderhome{
+    background-color: #DDE6ED;
+    /* color: #ffff; */
+    margin-bottom: 15px;
+    border-radius: 10px;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 5px;
+
+}
+
+.productBrand{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.productBrand--brandhome{
+    /* color: aliceblue; */
+    font-size: 20px;
+    font-weight: bold;
+    
+}

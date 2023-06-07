@@ -1,7 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+.imageElement--banner {
+  width: 100%;
+  object-fit: contain;
+  margin-bottom: 10px;
+}
+
 .imageElement--cover {
-    object-fit: cover;
+    object-fit: contain;
   }
 
-/* .imageElement{
-  height: 450px;
-} */
+/* prueba */
+
+
+.infoCardContainer--vintage {
+  background-color: #DDE6ED;
+  padding: 0;
+}
+
+.infoCardImagerContainer--vintage{
+  object-fit: cover;
+}
+
+.infoCardHeadline--vintage{
+  color: #27374D;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.infoCardCallActionContainer :global(.vtex-button) {
+  color: white;
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #27374D;
+  border: transparent;
+}
+
+.infoCardCallActionContainer :global(.vtex-button):hover {
+  color: #27374D;
+  font-weight: bold;
+  background-color: #9DB2BF;
+  border: transparent;
+}
